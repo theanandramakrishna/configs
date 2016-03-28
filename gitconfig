@@ -1,0 +1,7 @@
+[user]
+	name = Anand Ramakrishna
+	email = theanandramakrishna@gmail.com
+[core]
+	excludesfile = /Users/anand/.emacs.d/globalgitignore
+[diff]
+	external = /Users/anand/configs/git-diff-cmd.sh
